@@ -1,0 +1,145 @@
+{
+    "menu": [
+        {
+            "kategori": "bakso",
+            "nama": "bakso bakar",
+            "deskripsi": "bakso sapi yang di celup saus hitam dan dibakar serta disajikan  dengan secara aneka sayuran.",
+            "harga": 35500,
+            "gambar": "bakso-bakar.jpg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "bakso campur",
+            "deskripsi": "bakso yang disajikan dengan aneka ragam bihun.",
+            "harga": 40550,
+            "gambar": "bakso-campur.jpg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "bakso goreng mayonise",
+            "deskripsi": "bakso yang digoreng dan dibaluri dengan mayonise yang nikmat.",            
+            "harga": 30500,
+            "gambar": "bakso-goreng-mayonise.jpg"
+        },
+        {
+            "kategori": "bakso",
+            "nama": "bakso urat goreng",
+            "deskripsi": "bakso yang disajikan daging uratnya dan disajikan dengan di goreng.",            
+            "harga": 36000,
+            "gambar": "bakso-urat-goreng.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "capuccino",
+            "deskripsi": "minuman kopi dengan bubuk coklat.",            
+            "harga": 20000,
+            "gambar": "capuccino.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "es cendol",
+            "deskripsi": "minuman dengan aneka ragam buah dan di barengi susu yang nikmat.",            
+            "harga": 25500,
+            "gambar": "es-cendol.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "es fantastik",
+            "deskripsi": "minuman yang disuguhkan dengan parutan kelapa dan kolang-kaling.",            
+            "harga": 30000,
+            "gambar": "es-fantastik.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "jus alpukat",
+            "deskripsi": "minuman alpukat yang sudah diblender dan dibaluti susu kental manis.",            
+            "harga": 25000,
+            "gambar": "jus-alpukat.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "jus pisang",
+            "deskripsi": "minuman pisang yang sudah di haluskan dan dihidangkan secara segar.",            
+            "harga": 26000,
+            "gambar": "jus-pisang.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "lemon thai ice tea",
+            "deskripsi": "minuman tea thai yang dicampur peraasan lemon.",            
+            "harga": 17000,
+            "gambar": "lemon-thai-tea.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie ayam bakso",
+            "deskripsi": "mie ayam yang dilapisi bakso yang nikmat.",            
+            "harga": 36000,
+            "gambar": "mie-ayam-bakso.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie ayam lapangan tembak",
+            "deskripsi": "mie ayam spesial dari resto kami disertai ceker yang mengugah selera.",            
+            "harga": 40000,
+            "gambar": "mie-ayam-lapangan-tembak.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie ayam rica-rica",
+            "deskripsi": "mie ayam yang di baluri saus rica-rica.",            
+            "harga": 37000,
+            "gambar": "mie-ayam-rica-rica.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie goreng sosis",
+            "deskripsi": "mie yang digoreng dan berisi sosis-sosis yang nikmat.",
+            "harga": 36000,
+            "gambar": "mie-goreng-sosis.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie goreng spesial",
+            "deskripsi": "mie goreng spesial buatan kami yang berisi bakso spesial.",            
+            "harga": 38500,
+            "gambar": "mie-goreng-spesial.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie ireng seafood",
+            "deskripsi": "mie goreng dengan warna gitam dan berisi makanan laut.",
+            "harga": 34000,
+            "gambar": "mie-ireng-seafood.jpg"
+        },
+        {
+            "kategori": "mie",
+            "nama": "mie yamin chiken katsu",
+            "deskripsi": "mie yamin yang dabaluri toping chiken katsu.",
+            "harga": 40000,
+            "gambar": "mie-yamin-chicken-katsu.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "thai ice tea",
+            "deskripsi": "minuman tea thai yang dicampur susu manis",
+            "harga": 17000,
+            "gambar": "thai-ice-tea.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "es jeruk tomat",
+            "deskripsi": "minuman jeruk parut yang dilapisi tomat yang segar",
+            "harga": 18000,
+            "gambar": "es-jeruk-tomat.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "es teh tarik",
+            "deskripsi": "minuman teh susu ala india",
+            "harga": 19000,
+            "gambar": "es-teh-tarik.jpg"
+        }
+       
+    ]
+}

@@ -1,0 +1,21 @@
+#sort{
+    margin-top: -40px;
+    margin-left: 1000px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    color:#f8f9fa;
+    background-color: rgb(56, 53, 53);
+    padding-top : 28px;
+    padding-bottom:27px;
+}
+
+.footertext{
+    color : white;
+}
+
+.footertext:hover{
+    text-decoration: none;
+    color:#c4c2c2;
+}
